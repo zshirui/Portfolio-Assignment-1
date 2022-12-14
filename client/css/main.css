@@ -46,6 +46,11 @@ body {
         background-position-y: -170px;
         background-repeat: no-repeat;
     }
+
+    .title-content h1 {
+        font-size: 50px;
+    }
+    
 }
 
 
