@@ -539,7 +539,6 @@ Button:hover {
     }
 
     .individual-work-page-title {
-
         margin-left: -20px;
     }
 
@@ -570,5 +569,8 @@ Button:hover {
         object-fit: cover;
     }
 
+    .individual-work-page-title h1 {
+        font-size: 40px;
+    }
 
 }
