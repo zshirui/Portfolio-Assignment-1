@@ -538,10 +538,6 @@ Button:hover {
         object-fit: cover;
     }
 
-    .individual-work-page-title {
-        margin-left: -20px;
-    }
-
 }
 
 @media only screen and (max-width: 400px) {
